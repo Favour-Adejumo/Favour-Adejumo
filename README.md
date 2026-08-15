@@ -1,12 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31098423/README.md)
-## Hi there 👋
-
-<!--
-**Favour-Adejumo/Favour-Adejumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<p align="center">
+<p align="center">
   <a href="https://github.com/Favour-Adejumo">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Favour" alt="Hello! I&#39;m Favour" />
   </a>
@@ -83,12 +75,3 @@ Cloud &amp; DevOps Engineer building and deploying web applications, with a focu
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Favour-Adejumo">Favour-Adejumo</a></i></p>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

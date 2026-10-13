@@ -89,7 +89,7 @@ The project is being developed incrementally, with an emphasis on practical infr
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Favour-Adejumo&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="GitHub contribution activity" />
+  <img src="https://ghchart.rshah.org/2ea043/Favour-Adejumo" alt="Favour's GitHub contribution graph" />
 </p>
 
 ---
